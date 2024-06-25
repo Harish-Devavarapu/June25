@@ -1,0 +1,83 @@
+
+1st code Answer:
+
+package hi;
+public class Rectangle {
+ public static void main(String[] args)  {
+		int lenght=5,breath=7;
+		int a=lenght;
+		int b=breath;
+		int perimeter=2*(a+b);
+		System.out.println("PERIMETER OF RECTANGLE="+perimeter);		
+	}
+}
+----------------------------------------------------------------------------
+
+2nd code answer:
+
+package hi;
+
+public class Arithmetic {
+	public static void main(String[] args) {
+		int a=2341,b=8;
+		int c=a+b;
+        int d=c/3;
+		int e=d%5;
+		int g=e*5;
+		System.out.println("final result : " +g);
+			
+	}
+
+}
+
+-----------------------------------------------------------------------------
+ 3rd code Answer
+
+package hi;
+
+public class Oparator1 {
+
+	public static void main(String[] args) {
+		int a=23,b=45;
+		System.out.println("condition"+ (a==b));
+
+	}
+
+}
+
+
+-----------------------------------------------------------------------------
+4th code Answer
+
+package hi;
+
+public class Perimeter_of_triangle {
+
+	public static void main(String[] args) {
+		int side1=2,side2=3,side3=5;
+		int perimeter=side1+side2+side3;
+		System.out.println("perimeter of triangle :"+perimeter);
+
+	}
+
+}
+
+
+------------------------------------------------------------------------------
+
+5th code Answer
+
+package assignment1;
+
+public class Percentage {
+
+	public static void main(String[] args) {
+		float a=78,b=45,c=62;
+	    float d=a+b+c;
+	    float e=d/300;
+	    float f=e*100;
+	    System.out.println("Robert Precentage:"+f);
+	    
+	}
+
+}
